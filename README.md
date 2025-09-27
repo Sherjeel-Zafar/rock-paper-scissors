@@ -15,4 +15,5 @@ A simple Rock Paper Scissors game built with **HTML, CSS, and JavaScript**.
 - `docs/demo.pdf` → explanation and screenshots
 
 ## Live Demo
-(Link will be added after Netlify deployment)
+🎮 Play the game here: [Rock Paper Scissors Game](https://68d78e2aed4a96a9a06ee0ab--radiant-clafoutis-89fe14.netlify.app/)
+
